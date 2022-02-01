@@ -1,0 +1,11 @@
+.test{
+    border: 1px solid black;
+}
+
+.parent-li li:hover{
+    background-color: teal;
+}
+
+.parent-li li i{
+    cursor: pointer;
+}
